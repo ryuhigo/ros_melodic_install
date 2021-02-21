@@ -1,0 +1,64 @@
+h1 {
+  color: black;
+  /* 文字の大きさを40pxにしてください */
+  font-size: 40px;
+
+  /* 文字の種類をserifにしてください */
+  font-family: serif;
+  text-align: center;
+}
+
+h2 {
+  color: black;
+  /* 文字の大きさを40pxにしてください */
+  font-size: 30px;
+
+  /* 文字の種類をserifにしてください */
+  font-family: serif;
+}
+
+p {
+  color: black;
+  /* 文字の大きさを20pxにしてください */
+  font-size: 22px;
+
+  /* 文字の種類を"Lucida Grande"にしてください */
+  font-family: "Lucida Grande";
+
+}
+
+li {
+  color: black;
+  /* 文字の大きさを20pxにしてください */
+  font-size: 25px;
+
+  /* 文字の種類を"Lucida Grande"にしてください */
+  font-family: "Lucida Grande";
+
+}
+
+a {
+  color: blue;
+  /* 文字の大きさを20pxにしてください */
+  font-size: 25px;
+
+  /* 文字の種類を"Lucida Grande"にしてください */
+  font-family: serif;
+
+}
+
+.sample1 {
+padding:15px; border:3px solid black;
+background-color:white;
+}
+
+div {
+width: 50%;
+height: 100px;
+background-color: #85b9e9;
+}
+
+.box {
+width:150px;
+height:200px;
+}
